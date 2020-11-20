@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Garbage disposal schedule</string>
+
+    <string-array name="persons_names">
+        <item>Дамир</item>
+        <item>Дима</item>
+        <item>Наташа</item>
+        <item>Андрей</item>
+        <item>Саша</item>
+        <item>Максим</item>
+        <item>Тимур</item>
+        <item>Артур</item>
+    </string-array>
+</resources>
+
